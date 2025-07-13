@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  text-align: center;
+  padding: 50px;
+}
+.logo {
+  width: 150px;
+}
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.buttons a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background: #ffd700;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
